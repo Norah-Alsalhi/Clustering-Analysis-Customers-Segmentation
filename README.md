@@ -86,4 +86,4 @@ Cluster profiles were also broken down by **gender** to refine the marketing rec
 
 ---
 
-*Part of the Clarusway Machine Learning Bootcamp 2023 — Project 3: Clustering.*
+<img width="600" height="71" alt="408671304-1fadf25b-848a-42ec-950c-0125f5c90047" src="https://github.com/user-attachments/assets/45fa494a-4662-46f1-9d70-b2f3aebe5dd4" />
