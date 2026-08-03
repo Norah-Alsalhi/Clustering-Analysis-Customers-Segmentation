@@ -1,5 +1,4 @@
-# Mall Customer Segmentation —
-K-Means & Hierarchical Clustering
+## Mall Customer Segmentation (K-Means & Hierarchical Clustering)
 
 Unsupervised learning project for customer segmentation, built as **Project 3** of the **Clarusway Machine Learning Bootcamp**. The goal is to group mall customers into meaningful segments using **K-Means** and **Agglomerative (Hierarchical) Clustering**, then interpret each segment to suggest marketing strategies.
 
